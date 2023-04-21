@@ -1,4 +1,5 @@
 #!/bin/bash
+# Debian 11 - ready
 
 ## Update System
 sudo apt-get update
